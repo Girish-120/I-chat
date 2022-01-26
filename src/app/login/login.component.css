@@ -1,0 +1,10 @@
+.btns{
+    padding:10px 100px 10px 100px;
+    font-size: 17px;
+    font-weight: 800;
+}
+.loginform{
+    background-color: blueviolet;
+    padding: 60px;
+    margin-bottom: 30px;
+}

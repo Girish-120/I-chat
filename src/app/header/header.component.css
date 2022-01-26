@@ -1,0 +1,17 @@
+.login{
+    width: 8%;
+    /* border: 1px solid grey; */
+    /* align-items: center; */
+    text-align: center;
+    background: #283a5e;
+    color: white;
+    border-radius: 6px;
+}
+.login a{
+    color: white;
+    padding: 6px;
+    text-decoration: none;
+}
+.signup{
+    margin-left: 10px;
+}

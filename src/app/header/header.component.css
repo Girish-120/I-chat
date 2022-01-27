@@ -18,7 +18,7 @@
 
 .pageHeader{
     background-color: #1d2431;
-    position: fixed;
+    /* position: fixed; */
 }
 
 li .text{

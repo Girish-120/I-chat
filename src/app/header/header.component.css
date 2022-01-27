@@ -15,3 +15,9 @@
 .signup{
     margin-left: 10px;
 }
+.pageHeader{
+    background-color: #1d2431;
+}
+li .text{
+    color: white;
+}

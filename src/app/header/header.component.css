@@ -15,8 +15,11 @@
 .signup{
     margin-left: 10px;
 }
-.logo1{
-    height:70px;
-    width: 150px;
-    margin-left: 10px;
+
+.pageHeader{
+    background-color: #1d2431;
+}
+
+li .text{
+    color: white;
 }

@@ -8,6 +8,10 @@ import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { ContactComponent } from './contact/contact.component';
+import { AboutComponent } from './about/about.component';
+import { UserexperienceComponent } from './userexperience/userexperience.component';
+import { HelpComponent } from './help/help.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +20,11 @@ import { SignupComponent } from './signup/signup.component';
     FooterComponent,
     HomeComponent,
     LoginComponent,
-    SignupComponent
+    SignupComponent,
+    ContactComponent,
+    AboutComponent,
+    UserexperienceComponent,
+    HelpComponent
   ],
   imports: [
     BrowserModule,

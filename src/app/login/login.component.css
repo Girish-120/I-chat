@@ -4,7 +4,42 @@
     font-weight: 800;
 }
 .loginform{
-    background-color: blueviolet;
+    height: 600px;
+    background-color: #697999;
     padding: 60px;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
+
+.image2{
+    height: 600px;
+    width: 100%;
+}
+
+.facebooklink{
+    background-color: white;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.twitterlink{
+    background-color: white;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    padding: 10px;
+}
+
+.twitterlink h6{
+    margin-left: 10px;
+}
+
+.facebooklink h6{
+    margin-left: 10px;
+}
+
